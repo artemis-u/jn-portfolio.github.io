@@ -1,1 +1,0 @@
-# jn-portfolio.github.io

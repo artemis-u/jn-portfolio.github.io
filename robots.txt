@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jake-najera.github.io/jn-portfolio.github.io/sitemap.xml
